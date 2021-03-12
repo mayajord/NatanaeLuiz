@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-luiz-10/)](https://www.linkedin.com/in/natanael-luiz-10/)
 
 ### About me
-I'm a {backend, frontend} developer and technical at [@Redesoft](https://www.redesoft.com.br/).
+I'm a {backend, frontend} developer at [@Redesoft](https://www.redesoft.com.br/).
