@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Natanael Luiz
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-luiz-10/)](https://www.linkedin.com/in/natanael-luiz-10/)
+
+### About me
+I'm a {backend, frontend} developer and technical at [@Redesoft](https://www.redesoft.com.br/).
