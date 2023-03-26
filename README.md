@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 ### About me
 I'm a {backend, frontend} developer at [@MAGNA](https://www.magnasistemas.com.br/wps/portal/internet).
+
+Curriculo:
+https://natanaeluiz.github.io/resume/
