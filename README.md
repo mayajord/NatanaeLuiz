@@ -30,6 +30,9 @@ Here are some ideas to get you started:
   <img align="center" alt="Gustavo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
+##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaeLuiz&layout=compact)](https://github.com/NatanaeLuiz/github-readme-stats)
+##
 
 Curriculo online:
 https://natanaeluiz.github.io/resume/
