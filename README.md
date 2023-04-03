@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 </div>
 
 ##
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatanaeLuiz&layout=compact)](https://github.com/NatanaeLuiz/github-readme-stats)
+![Natanael GitHub stats](https://github-readme-stats.vercel.app/api?username=NatanaeLuiz&show_icons=true&theme=algolia)
 ##
 
 Curriculo online:
